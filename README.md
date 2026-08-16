@@ -164,7 +164,6 @@ Three stacks, built in 2026:
 | **Build** | Machine Learning Specialization (Coursera, 3-course series, Jan 2026) · Intro to Machine Learning (Kaggle, Mar 2026) · AI Agents Intensive **+ capstone** (Kaggle × Google, 2026) |
 | **Deploy** | **AWS Academy Graduate ×4** — Machine Learning Foundations · Cloud Foundations · Machine Learning for Natural Language Processing · Microservices and CI/CD Pipeline Builder — Amazon Web Services Training and Certification · [all verified on Credly](https://www.credly.com/users/mei-hsien-hsu) |
 | **Apply** | **Biocom California Institute ×4** — Applied Python in Biomanufacturing · Bioreactor Analytics and Optimization · Analytics for Biomanufacturing Operations Management · Biomanufacturing Supply Chain Management |
-| **Coursework** | CS4 Introduction to AI · CS5 Machine Learning · PSYCH 101 |
 | **Community** | Tzu Chi Foundation volunteer across San Francisco since 2009 · certified commissioner, July 2018 |
 | **Publication** | *When Algorithms Remember What We Forget: Computational Thinking as Infrastructure for Sustainable Community Service* |
 
